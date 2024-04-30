@@ -12,3 +12,4 @@ Papers and repos for multimodal chain-of-thought are essential tools for tacklin
 - [**DDCoT**](https://arxiv.org/abs/2311.17076) - DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models [Rope](https://github.com/SooLab/DDCOT)
 ![Star](https://img.shields.io/github/stars/SooLab/DDCOT.svg?style=social&label=Star)
 
+- [**KAM-CoT**](https://arxiv.org/pdf/2401.12863) - KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning
