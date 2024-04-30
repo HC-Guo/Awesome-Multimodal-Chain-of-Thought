@@ -5,3 +5,8 @@ Papers and repos for multimodal chain-of-thought are essential tools for tacklin
 ## Papers
 - [**MM-CoT**](https://arxiv.org/pdf/2303.08128.pdf) - Multimodal Chain-of-Thought Reasoning in Language Models [Rope](https://github.com/amazon-science/mm-cot)
 ![Star](https://img.shields.io/github/stars/amazon-science/mm-cot.svg?style=social&label=Star)
+
+- [**CCoT**](https://arxiv.org/abs/2311.17076) - Compositional Chain-of-Thought Prompting for Large Multimodal Models [Rope](https://github.com/chancharikmitra/CCoT?tab=readme-ov-file)
+![Star](https://img.shields.io/github/stars/chancharikmitra/CCoT?tab=readme-ov-file?style=social&label=Star)
+
+
