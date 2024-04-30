@@ -9,7 +9,10 @@ Papers and repos for multimodal chain-of-thought are essential tools for tacklin
 - [**CCoT**](https://arxiv.org/abs/2311.17076) - Compositional Chain-of-Thought Prompting for Large Multimodal Models [Rope](https://github.com/chancharikmitra/CCoT?tab=readme-ov-file)
 ![Star](https://img.shields.io/github/stars/chancharikmitra/CCoT?tab=readme-ov-file.svg?style=social&label=Star)
 
-- [**DDCoT**](https://arxiv.org/abs/2311.17076) - DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models [Rope](https://github.com/SooLab/DDCOT)
+- [**DDCoT**](https://arxiv.org/abs/2310.16436) - DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models [Rope](https://github.com/SooLab/DDCOT)
 ![Star](https://img.shields.io/github/stars/SooLab/DDCOT.svg?style=social&label=Star)
 
 - [**KAM-CoT**](https://arxiv.org/pdf/2401.12863) - KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning
+
+- [**Cantor**](https://arxiv.org/abs/2404.16033) - Cantor: Inspiring Multimodal Chain-of-Thought of MLLM [Rope](https://github.com/ggg0919/cantor?tab=readme-ov-file)
+![Star](https://img.shields.io/github/stars/ggg0919/cantor?tab=readme-ov-file.svg?style=social&label=Star)
