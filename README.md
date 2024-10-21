@@ -16,3 +16,6 @@ Papers and repos for multimodal chain-of-thought are essential tools for tacklin
 
 - [**Cantor**](https://arxiv.org/abs/2404.16033) - Cantor: Inspiring Multimodal Chain-of-Thought of MLLM [Rope](https://github.com/ggg0919/cantor?tab=readme-ov-file)
 ![Star](https://img.shields.io/github/stars/ggg0919/cantor?tab=readme-ov-file.svg?style=social&label=Star)
+
+
+- [**IW-Bench**](https://arxiv.org/pdf/2409.18980) - IW-Bench: Evaluating Large Multimodal Models for Converting Image-to-Web
