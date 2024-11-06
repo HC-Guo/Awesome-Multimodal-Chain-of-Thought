@@ -19,5 +19,10 @@ Papers and repos for multimodal chain-of-thought are essential tools for tacklin
 
 
 - [**IW-Bench**](https://arxiv.org/pdf/2409.18980) - IW-Bench: Evaluating Large Multimodal Models for Converting Image-to-Web
+  
 - [**R-CoT**](https://arxiv.org/pdf/2410.17885): Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models [Rope](https://github.com/dle666/R-CoT)
 ![Star](https://img.shields.io/github/stars/dle666/R-CoT.svg?style=social&label=Star)
+- [**Visual Sketchpad**](https://arxiv.org/abs/2406.09403): Sketching as a Visual Chain of Thought for Multimodal Language Models[Rope](https://github.com/Yushi-Hu/VisualSketchpad)
+![Star](https://img.shields.io/github/stars/Yushi-Hu/VisualSketchpad.svg?style=social&label=Star)
+
+
